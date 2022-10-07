@@ -1,6 +1,12 @@
 body{
-background-color: rgb(189, 169, 243);
+background-color: rgb(173, 136, 243);
 }
 h1 {
     text-align: center ;color: black;
+}
+h2{
+    text-align: center;color: black;
+}
+p{
+    text-align: center;color: black;
 }
